@@ -1,0 +1,1 @@
+export { authApiSignup } from "./api";
